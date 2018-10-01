@@ -1,0 +1,90 @@
+body{
+    background-image: url(astrology-mandala.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.jumbotron{
+    background-color: rgba(47, 137, 185, 0.5);
+    border-style: double;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    font-size: 150%;
+    font-style: italic;
+}
+p{
+    color: whitesmoke;
+    font-size: 150%;
+    text-align: center;
+}
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+/* .col-sm-4{
+    background-color: rgba(0, 166, 255, 0.5);
+    margin: 40px;
+    padding: 20px;
+    color:  rgb(89, 2, 89);
+    border-style: dotted dashed double;
+    font-size: 120%;
+    text-align: center;
+    font-style: oblique;
+    font-family: "Times New Roman", Times, serif;
+} */
+
+ul{
+    text-align: left;
+    color: whitesmoke;
+    font-size: 100%;
+}
+#mission{
+    background-color: rgba(0, 166, 255, 0.5);
+    font-size: 120%;
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+#donation{
+    /* background-color: rgba(0, 166, 255, 0.5); */
+    font-size: 120%; 
+    margin: 40px;
+    padding: 20px;
+    text-align: center;
+}
+.price-info{
+    background-color: rgba(0, 166, 255, 0.5);
+   
+}
+.my-bio{
+    background-color: rgba(76, 80, 82, 0.64);
+}
+.search-bar{
+    margin-left: 35%;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+}
+.search-bar2{
+    margin-left: 35%;
+    font-style: italic;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 150%;
+}
+.Prabhupada-quote{
+    margin-left: 35%;
+}
+.My-pic{
+        border-radius: 50%;
+}
+.contact-me{
+    color: navy;
+}
+.contact-form{
+    color:whitesmoke;
+}
+h3{
+     color: whitesmoke;
+}
+.astrology{
+    background-color: rgba(76, 80, 82, 0.64);
+}
